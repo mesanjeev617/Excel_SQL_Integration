@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Incremental_Data_Load_Using_LookUp", "Incremental_Data_Load_Using_LookUp\Incremental_Data_Load_Using_LookUp.dtproj", "{D414314C-9F01-4940-B25C-233E78C23074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D414314C-9F01-4940-B25C-233E78C23074}.Development|Default.ActiveCfg = Development
+		{D414314C-9F01-4940-B25C-233E78C23074}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {243E8E0B-EF88-4D22-8E30-5EA57D359873}
+	EndGlobalSection
+EndGlobal
